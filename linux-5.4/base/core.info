@@ -1,0 +1,21 @@
+PKG=core_base$
+NAME=base$
+DESC=base filesystem and config files$
+
+MAJOR=1$
+MINOR=1$
+
+SRC_URL=https://github.com/deevans$
+SRC_DATE=oct 23 2026$
+
+BIN_URL=https://github.com/deevans$
+BIN_DATE=oct 23 2026$
+
+COMPILE=$
+DEPENDS=$
+RELATED=$
+
+INSTALL=$
+REMOVE=$
+
+NOTES=core_base can not be removed$

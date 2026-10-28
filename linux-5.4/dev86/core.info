@@ -1,0 +1,21 @@
+PKG=dev86$
+NAME=dev86$
+DESC=x86 assembler$
+
+MAJOR=0.16.21$
+MINOR=1$
+
+SRC_URL=https://github.com/ikundrak/dev86/$
+SRC_DATE=mar 13 2014$
+
+BIN_URL=https://github.com/deevans$
+BIN_DATE=oct 23 2026$
+
+COMPILE=linux 5.4, glibc 2.31, gcc 9.5.0, binutils 2.34$
+DEPENDS=$
+RELATED=$
+
+INSTALL=$
+REMOVE=$
+
+NOTES=Renamed from bin86$

@@ -1,0 +1,21 @@
+PKG=python$
+NAME=python$
+DESC=python progamming language$
+
+MAJOR=3.6.15$
+MINOR=1$
+
+SRC_URL=https://python.org/ftp/python/$MAJOR/$
+SRC_DATE=sep 4 2021$
+
+BIN_URL=https://github.com/deevans$
+BIN_DATE=oct 23 2026$
+
+COMPILE=linux 5.4, glibc 2.31, gcc 9.5.0, binutils 2.34$
+DEPENDS=zlib$
+RELATED=$
+
+INSTALL=$
+REMOVE=$
+
+NOTES=$

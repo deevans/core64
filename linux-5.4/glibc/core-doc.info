@@ -1,0 +1,21 @@
+PKG=core_doc_glibc$
+NAME=doc_glibc$
+DESC=extra documentation for glibc$
+
+MAJOR=2.31$
+MINOR=1$
+
+SRC_URL=ftp://ftp.gnu.org/gnu/libc/$
+SRC_DATE=aug 1 2021$
+
+BIN_URL=https://github.com/deevans$
+BIN_DATE=oct 23 2026$
+
+COMPILE=linux 5.4, glibc 2.31, gcc 9.5.0, binutils 2.34$
+DEPENDS=$
+RELATED=$
+
+INSTALL=install-info /usr/info/libc.info.bz2 /usr/info/dir$
+REMOVE=install-info /usr/info/libc.info.bz2 /usr/info/dir --delete$
+
+NOTES=$

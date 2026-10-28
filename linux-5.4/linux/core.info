@@ -1,0 +1,21 @@
+PKG=linux$
+NAME=linux$
+DESC=kernel headers and boot files$
+
+MAJOR=5.4$
+MINOR=1$
+
+SRC_URL=https://kernel.org/pub/linux/kernel/v3.x/longterm/v3.10/$ 
+SRC_DATE=nov 25 2019$
+
+BIN_URL=https://github.com/deevans$
+BIN_DATE=oct 23 2026$
+
+COMPILE=linux 5.4, glibc 2.31, gcc 9.5.0, binutils 2.34$
+DEPENDS=bc$
+RELATED=$
+
+INSTALL=Run lilo if upgrading this package$
+REMOVE=$
+
+NOTES=$

@@ -1,0 +1,44 @@
+total 1700
+-rwxr-xr-x 1 root root  76604 May 24 00:00 ld-2.3.6.so*
+lrwxrwxrwx 1 root root     11 May 25 14:44 ld-linux.so.2 -> ld-2.3.6.so*
+-rwxr-xr-x 1 root root   5524 May 24 00:00 libBrokenLocale-2.3.6.so*
+lrwxrwxrwx 1 root root     24 May 25 14:44 libBrokenLocale.so.1 -> libBrokenLocale-2.3.6.so*
+-rwxr-xr-x 1 root root  13728 May 24 00:00 libSegFault.so*
+-rwxr-xr-x 1 root root  10088 May 24 00:00 libanl-2.3.6.so*
+lrwxrwxrwx 1 root root     15 May 25 14:44 libanl.so.1 -> libanl-2.3.6.so*
+-rwxr-xr-x 1 root root 960128 May 24 00:00 libc-2.3.6.so*
+lrwxrwxrwx 1 root root     13 May 25 14:44 libc.so.6 -> libc-2.3.6.so*
+-rwxr-xr-x 1 root root  17928 May 24 00:00 libcrypt-2.3.6.so*
+lrwxrwxrwx 1 root root     17 May 25 14:44 libcrypt.so.1 -> libcrypt-2.3.6.so*
+-rwxr-xr-x 1 root root   9840 May 24 00:00 libdl-2.3.6.so*
+lrwxrwxrwx 1 root root     14 May 25 14:44 libdl.so.2 -> libdl-2.3.6.so*
+-rwxr-xr-x 1 root root 133816 May 24 00:00 libm-2.3.6.so*
+lrwxrwxrwx 1 root root     13 May 25 14:44 libm.so.6 -> libm-2.3.6.so*
+-rwxr-xr-x 1 root root  13720 May 24 00:00 libmemusage.so*
+-rwxr-xr-x 1 root root  61124 May 24 00:00 libnsl-2.3.6.so*
+lrwxrwxrwx 1 root root     15 May 25 14:44 libnsl.so.1 -> libnsl-2.3.6.so*
+-rwxr-xr-x 1 root root  26460 May 24 00:00 libnss_compat-2.3.6.so*
+lrwxrwxrwx 1 root root     22 May 25 14:44 libnss_compat.so.2 -> libnss_compat-2.3.6.so*
+-rwxr-xr-x 1 root root  13864 May 24 00:00 libnss_dns-2.3.6.so*
+lrwxrwxrwx 1 root root     19 May 25 14:44 libnss_dns.so.2 -> libnss_dns-2.3.6.so*
+-rwxr-xr-x 1 root root  30456 May 24 00:00 libnss_files-2.3.6.so*
+lrwxrwxrwx 1 root root     21 May 25 14:44 libnss_files.so.2 -> libnss_files-2.3.6.so*
+-rwxr-xr-x 1 root root  13920 May 24 00:00 libnss_hesiod-2.3.6.so*
+lrwxrwxrwx 1 root root     22 May 25 14:44 libnss_hesiod.so.2 -> libnss_hesiod-2.3.6.so*
+-rwxr-xr-x 1 root root  30548 May 24 00:00 libnss_nis-2.3.6.so*
+lrwxrwxrwx 1 root root     19 May 25 14:44 libnss_nis.so.2 -> libnss_nis-2.3.6.so*
+-rwxr-xr-x 1 root root  34560 May 24 00:00 libnss_nisplus-2.3.6.so*
+lrwxrwxrwx 1 root root     23 May 25 14:44 libnss_nisplus.so.2 -> libnss_nisplus-2.3.6.so*
+-rwxr-xr-x 1 root root   5480 May 24 00:00 libpcprofile.so*
+-r-xr-xr-x 1 root root  41004 May 24 00:00 libproc-3.2.8.so*
+-rwxr-xr-x 1 root root  54848 May 24 00:00 libpthread-0.10.so*
+lrwxrwxrwx 1 root root     18 May 25 14:44 libpthread.so.0 -> libpthread-0.10.so*
+-rwxr-xr-x 1 root root  51376 May 24 00:00 libresolv-2.3.6.so*
+lrwxrwxrwx 1 root root     18 May 25 14:44 libresolv.so.2 -> libresolv-2.3.6.so*
+-rwxr-xr-x 1 root root  28536 May 24 00:00 librt-2.3.6.so*
+lrwxrwxrwx 1 root root     14 May 25 14:44 librt.so.1 -> librt-2.3.6.so*
+-rwxr-xr-x 1 root root  18672 May 24 00:00 libthread_db-1.0.so*
+lrwxrwxrwx 1 root root     19 May 25 14:44 libthread_db.so.1 -> libthread_db-1.0.so*
+-rwxr-xr-x 1 root root   9828 May 24 00:00 libutil-2.3.6.so*
+lrwxrwxrwx 1 root root     16 May 25 14:44 libutil.so.1 -> libutil-2.3.6.so*
+drwxr-xr-x 2 root root   4096 May 23 00:00 modules/

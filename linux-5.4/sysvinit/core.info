@@ -1,0 +1,21 @@
+PKG=core_sysvinit$
+NAME=sysvinit$
+DESC=startup/shutdown utilities$
+
+MAJOR=3.04$
+MINOR=1$
+
+SRC_URL=https://dl.sv.nongnu.org/releases/sysvinit/$
+SRC_DATE=apr 26 2022$
+
+BIN_URL=https://github.com/deevans$
+BIN_DATE=oct 23 2026$
+
+COMPILE=linux 5.4, glibc 2.31, gcc 9.5.0, binutils 2.34$
+DEPENDS=$
+RELATED=$
+
+INSTALL=$
+REMOVE=$
+
+NOTES=Remove sys/mount.h include from sulogin.c for glibc compatibility$

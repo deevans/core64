@@ -1,0 +1,21 @@
+PKG=core_sysklogd$
+NAME=sysklogd$
+DESC=system/kernel logging daemons$
+
+MAJOR=1.6$
+MINOR=1$
+
+SRC_URL=https://github.com/troglobit/sysklogd/$
+SRC_DATE=sep 25 2018$
+
+BIN_URL=https://github.com/deevans$
+BIN_DATE=oct 23 2026$
+
+COMPILE=linux 5.4, glibc 2.31, gcc 9.5.0, binutils 2.34$
+DEPENDS=$
+RELATED=$
+
+INSTALL=$
+REMOVE=$
+
+NOTES=$
